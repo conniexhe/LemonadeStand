@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1512551670 source:c:\users\shirley\desktop\it 9-10\lemonade stand v2\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+	<string>
+	<windows.h>
+	<cstdio>
+	"colours.h"
+
+1510877832 c:\users\shirley\desktop\it 9-10\lemonade stand v2\colours.h
+	<iostream>
+	<stdlib.h>
+	<windows.h>
+
